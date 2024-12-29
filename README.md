@@ -23,7 +23,7 @@ This repository demonstrates how to build a **Recommendation System** using Neo4
    - Uses real data fetched from Neo4j for model training and evaluation.
 
 4. **Cypher Query Integration:**
-   - Includes a `cypher_query.md` file with all relevant Cypher queries for setting up the database and running recommendation queries directly in Neo4j.
+   - Includes a **`cypher_query.md`** file with all relevant Cypher queries for setting up the database and running recommendation queries directly in Neo4j.
 
 ---
 
